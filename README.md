@@ -4,6 +4,7 @@ README: Scripts Principales del Proyecto
 Este proyecto utiliza tres scripts clave para manejar la interacción con botones, la lógica de juego por fases, la vibración en controladores XR y la navegación entre escenas.
 
 1. ButtonBuzz.cs: Feedback háptico en botones XR (OpenXR)
+
 Descripción:
 Este script añade vibración al controlador VR cuando se presiona un botón de la interfaz (UI). Está pensado para dispositivos XR compatibles con OpenXR, como Meta Quest.
 
@@ -34,6 +35,7 @@ Seleccionar la mano en el Inspector
 Ajustar intensidad y duración según la experiencia deseada
 
 2. ButtonSequenceController.cs: Controlador principal del juego por fases
+
 Descripción:
 Este es el script central del proyecto. Controla una secuencia de botones organizada en tres fases, con soporte para conteo de clics, reproducción de audios, timelines (PlayableDirector) e imágenes numéricas en pantalla.
 
@@ -99,6 +101,7 @@ Definir el botón correcto de la fase 2
 Configurar la escena final
 
 3. MenuController.cs: Controlador del menú principal y cambio de escenas
+
 Descripción:
 Este script gestiona el menú principal del proyecto y la carga de escenas desde botones UI.
 
