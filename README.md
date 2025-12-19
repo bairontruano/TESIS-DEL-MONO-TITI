@@ -1,5 +1,10 @@
 # TESIS-DEL-MONO-TITI
 
+SI HAY ERROES EN GITHUB, IR DIRECTAMENTE AL .ZIP del ONEDRIVE
+https://javerianacaliedu-my.sharepoint.com/:f:/g/personal/amongrimorio_javerianacali_edu_co/IgAispVjUMtpQZfMrUjISW2eAfF-X--aYLPa8thWSeTDguI?e=YaKT9a
+
+
+
 README: Scripts Principales del Proyecto
 Este proyecto utiliza tres scripts clave para manejar la interacción con botones, la lógica de juego por fases, la vibración en controladores XR y la navegación entre escenas.
 
